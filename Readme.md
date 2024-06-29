@@ -60,7 +60,7 @@ The system architecture of Tic-Tac-Toe consists of two main components: the fron
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/iSw4Gi/tic-tac-toe-code-masters.git
+   git clone https://github.com/iSw4Gi/tic-tac-toe.git
    cd tic-tac-toe-code-masters
 Install dependencies:
 bash
